@@ -4,4 +4,4 @@
 
 used EasyPickerView and SlidingUpPanell 
 
-dont forget -> check built.gradle for dependency
+dont forget -> check build.gradle for dependency
